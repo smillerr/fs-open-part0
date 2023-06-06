@@ -13,4 +13,6 @@ sequenceDiagram
   server->>browser: Status code 201 (Created request successfully)
   deactivate server
   Note right of browser: Since the browser did a POST request but not in a traditional way, the page does not reload, but instead, the browser internally on the js file, re draws the previous note but it adds the one that the user just saved
+  browser->>user: It gives the user the UI updated with the new note
+  deactivate browser
 ```
