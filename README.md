@@ -31,3 +31,5 @@ You can find the solution on the file exercise05.md on this repo.
 ### Description:
 
 Create a diagram depicting the situation where the user creates a new note using the single-page version of the app.
+
+You can find the solution on the file exercise06.md on this repo.
