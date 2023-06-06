@@ -24,7 +24,7 @@ Create a diagram depicting the situation where the user goes to the single-page 
 
 You can find the solution on the file exercise05.md on this repo.
 
---
+---
 
 ## Exercise 0.6: New note in Single page app diagram
 
