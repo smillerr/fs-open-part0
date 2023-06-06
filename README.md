@@ -10,6 +10,6 @@ Since exercise 0.1-0.3 were read only exercises, those were not included here.
 ### Description: 
 Create a similar diagram depicting the situation where the user creates a new note on the page https://studies.cs.helsinki.fi/exampleapp/notes by writing something into the text field and clicking the submit button.
 
-You can find the solution on the file exercise0.4.md on this repo.
+You can find the solution on the file exercise04.md on this repo.
 
 ---
